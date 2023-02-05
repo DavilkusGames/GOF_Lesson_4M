@@ -1,0 +1,8 @@
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\bin\Debug\GOF_Lesson_4M_Observer.exe.config
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\bin\Debug\GOF_Lesson_4M_Observer.exe
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\bin\Debug\GOF_Lesson_4M_Observer.pdb
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\obj\Debug\GOF_Lesson_4M_Observer.csproj.AssemblyReference.cache
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\obj\Debug\GOF_Lesson_4M_Observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\obj\Debug\GOF_Lesson_4M_Observer.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\obj\Debug\GOF_Lesson_4M_Observer.exe
+C:\Users\ПК\Documents\GitHub\GOF_Lesson_4M\GOF_Lesson_4M\GOF_Lesson_4M_Observer\obj\Debug\GOF_Lesson_4M_Observer.pdb

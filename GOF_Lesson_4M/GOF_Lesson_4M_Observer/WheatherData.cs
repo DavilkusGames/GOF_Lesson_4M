@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GOF_Lesson_4M_Observer
 {
-    public class WheatherData
+    public class WheatherData : ISubject
     {
         private List<IObserver> observers;
 
@@ -14,7 +14,7 @@ namespace GOF_Lesson_4M_Observer
         private float humidity;
         private float pressure;
 
-        public WeatherData()
+        public WheatherData()
         {
             observers = new List<IObserver>();
         }
@@ -35,6 +35,20 @@ namespace GOF_Lesson_4M_Observer
         public void RemoveObserver(IObserver observer)
         {
             observers.Remove(observer);
+        }
+
+        public void MeasurementsChanged()
+        {
+            NotifyObservers();
+        }
+
+        public void TestMethod(float temp, float humidity, float pressure)
+        {
+            this.temp = temp;
+            this.humidity = humidity;
+            this.pressure = pressure;
+
+            MeasurementsChanged();
         }
     }
 }

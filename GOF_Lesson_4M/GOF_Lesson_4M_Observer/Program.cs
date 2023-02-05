@@ -10,6 +10,12 @@ namespace GOF_Lesson_4M_Observer
     {
         static void Main(string[] args)
         {
+            WheatherData wheatherData = new WheatherData();
+            CurrentConditionsDisplay display1 = new CurrentConditionsDisplay(wheatherData);
+
+            wheatherData.TestMethod(10, 20, 30);
+
+            Console.ReadLine();
         }
     }
 }
