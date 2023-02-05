@@ -15,9 +15,10 @@ namespace GOF_Lesson_4M_Observer
         float temp;
         float pressure; 
 
-        public CurrentConditionsDisplay(WheatherData wheatherData)
+        public CurrentConditionsDisplay(WheatherData weatherData)
         {
             this.weatherData = weatherData;
+            weatherData.RegisterObserver(this);
         }
 
         public void Display()
